@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Database dumps (если большие)
+*.sql.gz
+*.dump
+
+# Logs
+*.log
